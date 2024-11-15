@@ -24,3 +24,7 @@ Tired of manually clicking the 'Connect' button on LinkedIn? The LinkedIn AutoCo
    - Enable **Developer Mode** by toggling the switch in the top-right corner.  
    - Click the **Load unpacked** button.  
    - Select the extracted folder and click **Open**
+
+## References:
+1. https://github.com/felladrin/linkedin-autoconnect-chrome-extension?tab=readme-ov-file
+2. 
